@@ -916,4 +916,3 @@ class AssaultPlan(dict):
         return [bee for wave in self.values() for bee in wave]
     
 
-# https://github.com/tommyfan34/cs61a/blob/master/ants/ants.py 
